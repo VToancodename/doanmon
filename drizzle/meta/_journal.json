@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1733198168771,
+      "tag": "0000_massive_boomerang",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1733199243239,
+      "tag": "0001_messy_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1733219342653,
+      "tag": "0002_supreme_katie_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1733433437563,
+      "tag": "0003_clear_typhoid_mary",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1733438814419,
+      "tag": "0004_sleepy_fat_cobra",
+      "breakpoints": true
+    }
+  ]
+}
